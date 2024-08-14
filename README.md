@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aiiiden&label=Profile%20views&color=0e75b6&style=flat" alt="aiiiden" /> </p>
 
-- 🔭 I’m currently working on [Catze Labs](https://github.com/catze-labs)
-
 - 🌱 I’m currently learning **Dapp development**
 
 - 💬 Ask me about **Next.js, Tailwind.css**
